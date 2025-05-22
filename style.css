@@ -1,0 +1,100 @@
+body {
+    background-image: url(depositphotos_550736430-stock-photo-ramadan-kareem-greeting-islamic-lantern.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+th,
+td,
+tr {
+    border: 2px solid rgb(54, 92, 65);
+    padding: 6px;
+    color: rgb(237, 237, 237);
+
+
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: 180px;
+    width: 75%;
+    margin-bottom: 100px;
+    background-color: rgba(0, 0, 0, 0.37);
+    box-shadow: rgba(255, 255, 255, 0.18);
+    backdrop-filter: blur(7px);
+    margin-bottom: 0px;
+
+}
+h1{
+    text-align: right;
+    font-size: 40px;
+    padding-right: 100px;
+    padding-top: 0px;
+    margin-top: 0px;
+    color: rgb(135, 253, 171);
+    text-decoration: underline rgb(135, 253, 171);
+   
+
+    
+}
+
+
+
+h2 {
+    color: rgb(151, 255, 183);
+    text-align: center;
+    font-size: 35px;
+   margin-top: 0px;
+    margin-bottom: 10px;
+
+}
+
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+     
+
+}
+
+#customers tr:hover {
+    background-color: rgba(255, 255, 255, 0.18);
+}
+
+td {
+    padding-left: 10px;
+
+}
+.contact-btn {
+    display: inline-block;
+    padding: 5px 20px;
+    
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.37);
+    box-shadow: rgba(255, 255, 255, 0.18);
+    backdrop-filter: blur(30px);
+    margin-bottom: 0px;
+
+  }
+
+  .contact-btn:hover {
+    background: rgba(0,0,0,0.37);
+    transform: scale(0.95);
+    transition: 100ms;
+  }
+  a {
+    color: #0077cc;
+    text-decoration: none;
+    text-decoration: none;
+    text-align: left;
+  }
+
+  a:hover {
+    text-decoration: none;
+  }
+a:active{
+    color: #1f3876;
+  }
